@@ -1,4 +1,4 @@
-class Neovim < Formula
+class NeovimAT083 < Formula
   desc "Ambitious Vim-fork focused on extensibility and agility"
   homepage "https://neovim.io/"
   license "Apache-2.0"
